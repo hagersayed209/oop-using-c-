@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623178712 source:e:\c\oop7_1\main.cpp
+	<iostream>
+	<graphics.h>
+
